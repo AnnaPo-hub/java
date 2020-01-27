@@ -15,18 +15,6 @@ public class cycling {
         } while (cycledkm < goalkm);
 
 
-//            int finalBalance = 100000;
-//            double currentBalance = 1000;
-//            int payment = 1000;
-//            int years = 0;
-//            double interestrate = 0.1;
-//
-//            do {
-//                currentBalance += payment;
-//                currentBalance = currentBalance + currentBalance * interestrate;
-//                years++;
-//                System.out.println("Years" + years + "-" + currentBalance);
-//            } while (currentBalance < finalBalance && years < 15);
 
 
     }
