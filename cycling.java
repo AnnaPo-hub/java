@@ -11,7 +11,7 @@ public class cycling {
         do {
             cycledkm += kmPerMonth;
             months++;
-            System.out.println(" в конце month" + months + " проехали " + cycledkm);
+            System.out.println(String.format(" в конце month %d  проехали %d",months,cycledkm));
         } while (cycledkm < goalkm);
 
 
